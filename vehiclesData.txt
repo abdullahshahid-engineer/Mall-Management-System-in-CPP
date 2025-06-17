@@ -1,0 +1,120 @@
+11
+Audi A3
+2024 Premium
+Sedan
+Audi
+Silver
+8
+201
+24000
+2
+1
+Toyota Camry
+2024 SE
+Sedan
+Toyota
+Silver
+8
+203
+28500
+11
+10
+Subaru Outback
+2024 Premium
+SUV
+Subaru
+Blue
+8.7
+182
+31500
+9
+2
+Honda CR-V
+2024 EX-L
+SUV
+Honda
+Black
+7.8
+190
+32900
+8
+9
+Volkswagen Golf GTI
+2024 SE
+Hatchback
+Volkswagen
+Green
+7.5
+241
+33500
+6
+7
+Hyundai Tucson
+2024 Limited
+SUV
+Hyundai
+Gray
+8.4
+187
+34700
+7
+5
+Chevrolet Silverado
+2024 LT
+Truck
+Chevrolet
+Red
+12
+355
+42500
+10
+3
+Ford F-150
+2024 XLT
+Truck
+Ford
+Blue
+10
+400
+45800
+15
+4
+Tesla Model 3
+2024 Long Range
+Electric
+Tesla
+White
+500
+346
+47000
+5
+8
+Mercedes-Benz C-Class
+2024 C300
+Sedan
+Mercedes-Benz
+White
+9.3
+255
+55900
+4
+6
+BMW X5
+2024 xDrive40i
+SUV
+BMW
+Black
+9
+335
+65900
+3
+20
+Honda City
+2021
+Sedan
+Honda
+Black
+12
+200
+1200
+6
