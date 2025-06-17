@@ -1,0 +1,44 @@
+{
+    "advertisements": [
+        {
+            "adId": 2,
+            "costPerDay": 12.0,
+            "description": "po",
+            "durationInSeconds": 12,
+            "endDate": "12-13",
+            "isActive": true,
+            "screenLocation": "lahore",
+            "startDate": "12-12",
+            "title": "hassan",
+            "type": "Digital"
+        },
+        {
+            "adId": 38,
+            "costPerDay": 3.0,
+            "description": "fhjhs",
+            "durationInSeconds": 60,
+            "endDate": "12-12-25",
+            "isActive": false,
+            "screenLocation": "lahore",
+            "startDate": "12-12-24",
+            "title": "surf",
+            "type": "Digital"
+        }
+    ],
+    "advertisers": [
+        {
+            "advertiserId": 1,
+            "contactPerson": "1",
+            "email": "qw",
+            "name": "q",
+            "phone": "120"
+        },
+        {
+            "advertiserId": 38,
+            "contactPerson": "37827",
+            "email": "sdhfhd",
+            "name": "mha",
+            "phone": "483787"
+        }
+    ]
+}

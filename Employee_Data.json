@@ -1,0 +1,89 @@
+{
+    "employees": [
+        {
+            "name": "Ali",
+            "performanceScore": 50,
+            "role": "Cashier",
+            "salary": 120.0,
+            "type": "Employee"
+        },
+        {
+            "name": "Ahmed",
+            "performanceScore": 65,
+            "role": "Security",
+            "salary": 80.0,
+            "type": "Employee"
+        },
+        {
+            "name": "Sara",
+            "performanceScore": 75,
+            "role": "Manager",
+            "salary": 300.0,
+            "type": "Employee"
+        },
+        {
+            "name": "Usman",
+            "performanceScore": 40,
+            "role": "Cleaner",
+            "salary": 60.0,
+            "type": "Employee"
+        },
+        {
+            "name": "Fatima",
+            "performanceScore": 85,
+            "role": "Accountant",
+            "salary": 250.0,
+            "type": "Employee"
+        },
+        {
+            "name": "Bilal",
+            "performanceScore": 55,
+            "role": "Cashier",
+            "salary": 130.0,
+            "type": "Employee"
+        },
+        {
+            "name": "Zainab",
+            "performanceScore": 95,
+            "role": "Floor Manager",
+            "salary": 270.0,
+            "type": "Employee"
+        },
+        {
+            "name": "Hamza",
+            "performanceScore": 20,
+            "role": "Helper",
+            "salary": 50.0,
+            "type": "Employee"
+        },
+        {
+            "name": "Ayesha",
+            "performanceScore": 68,
+            "role": "Receptionist",
+            "salary": 110.0,
+            "type": "Employee"
+        },
+        {
+            "name": "Imran",
+            "performanceScore": 77,
+            "role": "Supervisor",
+            "salary": 200.0,
+            "type": "Employee"
+        },
+        {
+            "name": "Noor",
+            "performanceScore": 88,
+            "role": "IT Support",
+            "salary": 220.0,
+            "type": "Employee"
+        },
+        {
+            "name": "Junaid",
+            "performanceScore": 32,
+            "role": "Security",
+            "salary": 85.0,
+            "type": "Employee"
+        }
+    ],
+    "mallName": "ITU"
+}

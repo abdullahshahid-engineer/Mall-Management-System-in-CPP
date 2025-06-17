@@ -1,0 +1,365 @@
+{
+    "customers": [
+        {
+            "customerId": 1,
+            "feedbacks": [
+                {
+                    "content": "Great service!",
+                    "customerId": 1,
+                    "feedbackId": 1
+                }
+            ],
+            "membershipStatus": "Regular",
+            "name": "Ali",
+            "type": "regular"
+        },
+        {
+            "customerId": 2,
+            "feedbacks": [],
+            "loyaltyPoints": 15,
+            "membershipStatus": "VIP",
+            "name": "Sara",
+            "type": "vip"
+        },
+        {
+            "customerId": 3,
+            "feedbacks": [
+                {
+                    "content": "Could improve.",
+                    "customerId": 3,
+                    "feedbackId": 2
+                }
+            ],
+            "membershipStatus": "Regular",
+            "name": "Omar",
+            "type": "regular"
+        },
+        {
+            "customerId": 4,
+            "feedbacks": [],
+            "loyaltyPoints": 130,
+            "membershipStatus": "VIP",
+            "name": "Fatima",
+            "type": "vip"
+        },
+        {
+            "customerId": 5,
+            "feedbacks": [],
+            "membershipStatus": "Regular",
+            "name": "Usman",
+            "type": "regular"
+        },
+        {
+            "customerId": 7,
+            "feedbacks": [],
+            "membershipStatus": "Regular",
+            "name": "a",
+            "type": "regular"
+        },
+        {
+            "customerId": 100,
+            "feedbacks": [
+                {
+                    "content": "good",
+                    "customerId": 100,
+                    "feedbackId": 100
+                }
+            ],
+            "membershipStatus": "Regular",
+            "name": "uzair",
+            "type": "regular"
+        }
+    ],
+    "invoices": [
+        {
+            "customerId": 1,
+            "invoiceId": 1,
+            "items": [
+                {
+                    "price": 50.0,
+                    "productId": 100,
+                    "productName": "Keyboard",
+                    "quantity": 1,
+                    "storeId": 1,
+                    "transactionId": 1
+                }
+            ],
+            "totalAmount": 50.0
+        },
+        {
+            "customerId": 2,
+            "invoiceId": 2,
+            "items": [
+                {
+                    "price": 100.0,
+                    "productId": 101,
+                    "productName": "Headphones",
+                    "quantity": 1,
+                    "storeId": 2,
+                    "transactionId": 2
+                }
+            ],
+            "totalAmount": 90.0
+        },
+        {
+            "customerId": 3,
+            "invoiceId": 3,
+            "items": [
+                {
+                    "price": 20.0,
+                    "productId": 102,
+                    "productName": "Mouse",
+                    "quantity": 1,
+                    "storeId": 1,
+                    "transactionId": 3
+                }
+            ],
+            "totalAmount": 20.0
+        },
+        {
+            "customerId": 4,
+            "invoiceId": 4,
+            "items": [
+                {
+                    "price": 200.0,
+                    "productId": 103,
+                    "productName": "Monitor",
+                    "quantity": 1,
+                    "storeId": 3,
+                    "transactionId": 4
+                }
+            ],
+            "totalAmount": 180.0
+        },
+        {
+            "customerId": 5,
+            "invoiceId": 5,
+            "items": [
+                {
+                    "price": 10.0,
+                    "productId": 104,
+                    "productName": "Notebook",
+                    "quantity": 3,
+                    "storeId": 4,
+                    "transactionId": 5
+                }
+            ],
+            "totalAmount": 30.0
+        },
+        {
+            "customerId": 2,
+            "invoiceId": 6,
+            "items": [
+                {
+                    "price": 40.0,
+                    "productId": 105,
+                    "productName": "Charger",
+                    "quantity": 1,
+                    "storeId": 2,
+                    "transactionId": 6
+                }
+            ],
+            "totalAmount": 36.0
+        },
+        {
+            "customerId": 3,
+            "invoiceId": 7,
+            "items": [
+                {
+                    "price": 15.0,
+                    "productId": 106,
+                    "productName": "USB Cable",
+                    "quantity": 2,
+                    "storeId": 1,
+                    "transactionId": 7
+                }
+            ],
+            "totalAmount": 30.0
+        },
+        {
+            "customerId": 3,
+            "invoiceId": 8,
+            "items": [
+                {
+                    "price": 89.98999786376953,
+                    "productId": 110,
+                    "productName": "External Hard Drive",
+                    "quantity": 2,
+                    "storeId": 1,
+                    "transactionId": 8
+                }
+            ],
+            "totalAmount": 107.98799896240234
+        },
+        {
+            "customerId": 3,
+            "invoiceId": 9,
+            "items": [
+                {
+                    "price": 3.990000009536743,
+                    "productId": 106,
+                    "productName": "Screen Cleaner",
+                    "quantity": 3,
+                    "storeId": 1,
+                    "transactionId": 9
+                }
+            ],
+            "totalAmount": 8.378999710083008
+        },
+        {
+            "customerId": 2,
+            "invoiceId": 19,
+            "items": [
+                {
+                    "price": 89.98999786376953,
+                    "productId": 110,
+                    "productName": "External Hard Drive",
+                    "quantity": 2,
+                    "storeId": 1,
+                    "transactionId": 19
+                }
+            ],
+            "totalAmount": 98.9889907836914
+        },
+        {
+            "customerId": 100,
+            "invoiceId": 100,
+            "items": [
+                {
+                    "price": 5.0,
+                    "productId": 209,
+                    "productName": "Bandages",
+                    "quantity": 5,
+                    "storeId": 2,
+                    "transactionId": 100
+                }
+            ],
+            "totalAmount": 20.0
+        }
+    ],
+    "paymentMethods": [
+        {
+            "methodType": "Cash"
+        },
+        {
+            "methodType": "Credit Card"
+        },
+        {
+            "methodType": "Debit Card"
+        },
+        {
+            "methodType": "Cash"
+        },
+        {
+            "methodType": "Online"
+        },
+        {
+            "methodType": "Cash"
+        },
+        {
+            "methodType": "Cash"
+        },
+        {
+            "methodType": "Cash"
+        },
+        {
+            "methodType": "Cash"
+        },
+        {
+            "methodType": "Cash"
+        },
+        {
+            "methodType": "card"
+        }
+    ],
+    "transactions": [
+        {
+            "price": 50.0,
+            "productId": 100,
+            "productName": "Keyboard",
+            "quantity": 1,
+            "storeId": 1,
+            "transactionId": 1
+        },
+        {
+            "price": 100.0,
+            "productId": 101,
+            "productName": "Headphones",
+            "quantity": 1,
+            "storeId": 2,
+            "transactionId": 2
+        },
+        {
+            "price": 20.0,
+            "productId": 102,
+            "productName": "Mouse",
+            "quantity": 1,
+            "storeId": 1,
+            "transactionId": 3
+        },
+        {
+            "price": 200.0,
+            "productId": 103,
+            "productName": "Monitor",
+            "quantity": 1,
+            "storeId": 3,
+            "transactionId": 4
+        },
+        {
+            "price": 10.0,
+            "productId": 104,
+            "productName": "Notebook",
+            "quantity": 3,
+            "storeId": 4,
+            "transactionId": 5
+        },
+        {
+            "price": 40.0,
+            "productId": 105,
+            "productName": "Charger",
+            "quantity": 1,
+            "storeId": 2,
+            "transactionId": 6
+        },
+        {
+            "price": 15.0,
+            "productId": 106,
+            "productName": "USB Cable",
+            "quantity": 2,
+            "storeId": 1,
+            "transactionId": 7
+        },
+        {
+            "price": 89.98999786376953,
+            "productId": 110,
+            "productName": "External Hard Drive",
+            "quantity": 2,
+            "storeId": 1,
+            "transactionId": 8
+        },
+        {
+            "price": 3.990000009536743,
+            "productId": 106,
+            "productName": "Screen Cleaner",
+            "quantity": 3,
+            "storeId": 1,
+            "transactionId": 9
+        },
+        {
+            "price": 89.98999786376953,
+            "productId": 110,
+            "productName": "External Hard Drive",
+            "quantity": 2,
+            "storeId": 1,
+            "transactionId": 19
+        },
+        {
+            "price": 5.0,
+            "productId": 209,
+            "productName": "Bandages",
+            "quantity": 5,
+            "storeId": 2,
+            "transactionId": 100
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "parkingSpots": [
+        {
+            "isOccupied": false,
+            "location": "Level3,east",
+            "spotId": 12
+        },
+        {
+            "isOccupied": false,
+            "location": "level2,south",
+            "spotId": 38
+        }
+    ],
+    "tickets": [
+        {
+            "active": false,
+            "amountPaid": 4.0,
+            "entryTime": "20-23",
+            "exitTime": "12-21",
+            "licensePlate": "123",
+            "spotId": 12,
+            "ticketId": 1234
+        },
+        {
+            "active": false,
+            "amountPaid": 6.0,
+            "entryTime": "12-12-24",
+            "exitTime": "12-12-25",
+            "licensePlate": "38",
+            "spotId": 38,
+            "ticketId": 38
+        }
+    ],
+    "vehicles": [
+        {
+            "licensePlate": "123",
+            "vehicleType": "car"
+        },
+        {
+            "licensePlate": "38",
+            "vehicleType": "car"
+        }
+    ]
+}

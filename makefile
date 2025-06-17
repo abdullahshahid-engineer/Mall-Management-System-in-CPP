@@ -1,12 +1,14 @@
 all: ./a.out
 
 compRun:
-		g++ main.cpp ProductAndInventoryManagement.cpp registrationAndLoginSystem.cpp employeeManagement.cpp SupplierManagement.cpp customerManagement.cpp SalesAndBillingSystem.cpp -o r.out
+	g++ -std=c++11 *.cpp -o r.out
 
+compTest:
+	g++ -std=c++11 test.cpp functions.cpp -o a.out
 
-
+test: clean compTest; ./a.out
 
 run: clean compRun; ./r.out
 
 clean:
-		rm -f *.out
+	rm -f *.out

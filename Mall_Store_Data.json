@@ -1,0 +1,399 @@
+{
+    "location": "Nishtar Town Lahore",
+    "name": "ITU",
+    "stores": [
+        {
+            "category": "Medicine",
+            "inventory": {
+                "id": 12,
+                "products": [
+                    {
+                        "category": "Pain Relief",
+                        "expiryDate": "2025-12-01",
+                        "id": 201,
+                        "name": "Paracetamol",
+                        "price": 8.0,
+                        "quantity": 100,
+                        "stockID": 2001,
+                        "type": "perishable"
+                    },
+                    {
+                        "category": "Supplements",
+                        "expiryDate": "2026-04-10",
+                        "id": 203,
+                        "name": "Multivitamins",
+                        "price": 25.0,
+                        "quantity": 80,
+                        "stockID": 2003,
+                        "type": "perishable"
+                    },
+                    {
+                        "category": "Equipment",
+                        "id": 204,
+                        "name": "Thermometer",
+                        "price": 15.0,
+                        "quantity": 30,
+                        "stockID": 2004,
+                        "type": "nonperishable",
+                        "warrantyPeriod": 12
+                    },
+                    {
+                        "category": "Safety",
+                        "id": 205,
+                        "name": "First Aid Kit",
+                        "price": 45.0,
+                        "quantity": 20,
+                        "stockID": 2005,
+                        "type": "nonperishable",
+                        "warrantyPeriod": 24
+                    },
+                    {
+                        "category": "Diabetes",
+                        "expiryDate": "2025-10-01",
+                        "id": 206,
+                        "name": "Insulin",
+                        "price": 50.0,
+                        "quantity": 40,
+                        "stockID": 2006,
+                        "type": "perishable"
+                    },
+                    {
+                        "category": "Allergy",
+                        "expiryDate": "2025-09-15",
+                        "id": 207,
+                        "name": "Allergy Pills",
+                        "price": 18.0,
+                        "quantity": 60,
+                        "stockID": 2007,
+                        "type": "perishable"
+                    },
+                    {
+                        "category": "Pain Relief",
+                        "expiryDate": "2026-01-01",
+                        "id": 208,
+                        "name": "Pain Relief Spray",
+                        "price": 20.0,
+                        "quantity": 70,
+                        "stockID": 2008,
+                        "type": "perishable"
+                    },
+                    {
+                        "category": "First Aid",
+                        "id": 209,
+                        "name": "Bandages",
+                        "price": 5.0,
+                        "quantity": 145,
+                        "stockID": 2009,
+                        "type": "product"
+                    }
+                ]
+            },
+            "name": "Green Pharmacy",
+            "storeID": 2
+        },
+        {
+            "category": "Groceries",
+            "inventory": {
+                "id": 13,
+                "products": [
+                    {
+                        "category": "Dairy",
+                        "expiryDate": "2025-05-01",
+                        "id": 301,
+                        "name": "Milk",
+                        "price": 1.5,
+                        "quantity": 200,
+                        "stockID": 3001,
+                        "type": "perishable"
+                    },
+                    {
+                        "category": "Dairy",
+                        "expiryDate": "2025-05-05",
+                        "id": 302,
+                        "name": "Eggs",
+                        "price": 0.2,
+                        "quantity": 500,
+                        "stockID": 3002,
+                        "type": "perishable"
+                    },
+                    {
+                        "category": "Staple",
+                        "id": 303,
+                        "name": "Rice",
+                        "price": 2.0,
+                        "quantity": 100,
+                        "stockID": 3003,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Staple",
+                        "id": 304,
+                        "name": "Pasta",
+                        "price": 1.2,
+                        "quantity": 150,
+                        "stockID": 3004,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Staple",
+                        "id": 305,
+                        "name": "Cooking Oil",
+                        "price": 10.0,
+                        "quantity": 80,
+                        "stockID": 3005,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Vegetables",
+                        "expiryDate": "2025-04-30",
+                        "id": 306,
+                        "name": "Tomatoes",
+                        "price": 0.5,
+                        "quantity": 300,
+                        "stockID": 3006,
+                        "type": "perishable"
+                    },
+                    {
+                        "category": "Fruits",
+                        "expiryDate": "2025-05-07",
+                        "id": 307,
+                        "name": "Apples",
+                        "price": 1.0,
+                        "quantity": 250,
+                        "stockID": 3007,
+                        "type": "perishable"
+                    },
+                    {
+                        "category": "Dairy",
+                        "expiryDate": "2025-06-01",
+                        "id": 308,
+                        "name": "Cheese",
+                        "price": 4.0,
+                        "quantity": 60,
+                        "stockID": 3008,
+                        "type": "perishable"
+                    }
+                ]
+            },
+            "name": "Fresh Mart",
+            "storeID": 3
+        },
+        {
+            "category": "Clothing",
+            "inventory": {
+                "id": 14,
+                "products": [
+                    {
+                        "category": "Men",
+                        "id": 401,
+                        "name": "T-Shirt",
+                        "price": 15.0,
+                        "quantity": 100,
+                        "stockID": 4001,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Men",
+                        "id": 402,
+                        "name": "Jeans",
+                        "price": 40.0,
+                        "quantity": 70,
+                        "stockID": 4002,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Women",
+                        "id": 403,
+                        "name": "Dress",
+                        "price": 60.0,
+                        "quantity": 50,
+                        "stockID": 4003,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Footwear",
+                        "id": 404,
+                        "name": "Sneakers",
+                        "price": 80.0,
+                        "quantity": 60,
+                        "stockID": 4004,
+                        "type": "nonperishable",
+                        "warrantyPeriod": 12
+                    },
+                    {
+                        "category": "Accessories",
+                        "id": 405,
+                        "name": "Hat",
+                        "price": 20.0,
+                        "quantity": 90,
+                        "stockID": 4005,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Men",
+                        "id": 406,
+                        "name": "Jacket",
+                        "price": 120.0,
+                        "quantity": 30,
+                        "stockID": 4006,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Women",
+                        "id": 407,
+                        "name": "Handbag",
+                        "price": 150.0,
+                        "quantity": 25,
+                        "stockID": 4007,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Accessories",
+                        "id": 408,
+                        "name": "Belt",
+                        "price": 18.0,
+                        "quantity": 70,
+                        "stockID": 4008,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Accessories",
+                        "id": 409,
+                        "name": "Watch",
+                        "price": 200.0,
+                        "quantity": 40,
+                        "stockID": 4009,
+                        "type": "nonperishable",
+                        "warrantyPeriod": 24
+                    },
+                    {
+                        "category": "Men",
+                        "id": 410,
+                        "name": "Socks",
+                        "price": 5.0,
+                        "quantity": 148,
+                        "stockID": 4010,
+                        "type": "product"
+                    }
+                ]
+            },
+            "name": "Fashion Hub",
+            "storeID": 4
+        },
+        {
+            "category": "Furniture",
+            "inventory": {
+                "id": 15,
+                "products": [
+                    {
+                        "category": "Living Room",
+                        "id": 501,
+                        "name": "Sofa",
+                        "price": 499.99,
+                        "quantity": 10,
+                        "stockID": 5001,
+                        "type": "nonperishable",
+                        "warrantyPeriod": 36
+                    },
+                    {
+                        "category": "Dining Room",
+                        "id": 502,
+                        "name": "Dining Table",
+                        "price": 799.99,
+                        "quantity": 5,
+                        "stockID": 5002,
+                        "type": "nonperishable",
+                        "warrantyPeriod": 36
+                    },
+                    {
+                        "category": "Bedroom",
+                        "id": 503,
+                        "name": "Bed",
+                        "price": 999.99,
+                        "quantity": 7,
+                        "stockID": 5003,
+                        "type": "nonperishable",
+                        "warrantyPeriod": 36
+                    },
+                    {
+                        "category": "Living Room",
+                        "id": 504,
+                        "name": "Chair",
+                        "price": 89.99,
+                        "quantity": 20,
+                        "stockID": 5004,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Study",
+                        "id": 505,
+                        "name": "Bookshelf",
+                        "price": 199.99,
+                        "quantity": 12,
+                        "stockID": 5005,
+                        "type": "nonperishable",
+                        "warrantyPeriod": 24
+                    },
+                    {
+                        "category": "Living Room",
+                        "id": 506,
+                        "name": "Curtains",
+                        "price": 59.99,
+                        "quantity": 25,
+                        "stockID": 5006,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Bedroom",
+                        "id": 507,
+                        "name": "Table Lamp",
+                        "price": 39.99,
+                        "quantity": 30,
+                        "stockID": 5007,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Bathroom",
+                        "id": 508,
+                        "name": "Mirror",
+                        "price": 79.99,
+                        "quantity": 15,
+                        "stockID": 5008,
+                        "type": "product"
+                    },
+                    {
+                        "category": "Bedroom",
+                        "id": 509,
+                        "name": "Mattress",
+                        "price": 499.99,
+                        "quantity": 8,
+                        "stockID": 5009,
+                        "type": "nonperishable",
+                        "warrantyPeriod": 36
+                    }
+                ]
+            },
+            "name": "Home Essentials",
+            "storeID": 5
+        },
+        {
+            "category": "q",
+            "inventory": {
+                "id": 10,
+                "products": [
+                    {
+                        "category": "a",
+                        "id": 14,
+                        "name": "a",
+                        "price": 12.0,
+                        "quantity": 20,
+                        "stockID": 14,
+                        "type": "product"
+                    }
+                ]
+            },
+            "name": "a",
+            "storeID": 10
+        }
+    ]
+}

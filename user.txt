@@ -1,2 +1,0 @@
-abdullah abdullah1 admin
-ali 12345 employee

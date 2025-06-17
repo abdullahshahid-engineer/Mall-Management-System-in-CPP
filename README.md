@@ -1,1 +1,0 @@
-# Mall-Management-System-in-CPP

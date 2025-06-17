@@ -1,0 +1,40 @@
+{
+    "bookings": [
+        {
+            "bookingDate": "2025-04-25",
+            "bookingId": 1,
+            "customerId": 1,
+            "eventId": 1,
+            "isPaid": true,
+            "numTickets": 4,
+            "totalAmount": 2000.0
+        },
+        {
+            "bookingDate": "2025-04-25",
+            "bookingId": 2,
+            "customerId": 2,
+            "eventId": 12,
+            "isPaid": true,
+            "numTickets": 2,
+            "totalAmount": 1100.0
+        },
+        {
+            "bookingDate": "2025-04-25",
+            "bookingId": 3,
+            "customerId": 3,
+            "eventId": 13,
+            "isPaid": true,
+            "numTickets": 2,
+            "totalAmount": 400.0
+        },
+        {
+            "bookingDate": "2025-04-25",
+            "bookingId": 4,
+            "customerId": 1,
+            "eventId": 13,
+            "isPaid": true,
+            "numTickets": 10,
+            "totalAmount": 2000.0
+        }
+    ]
+}
